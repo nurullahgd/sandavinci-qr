@@ -29,7 +29,7 @@ const Header = ({ categories, activeCategory, onCategoryChange, isScrolled }) =>
           <ul className="flex space-x-3 md:space-x-6">
             <li>
               <a 
-                href="#" 
+                href="https://sandavinci.net" 
                 className={`text-xs md:text-sm font-medium transition-colors hover:text-primary-600 ${
                   isScrolled ? 'text-secondary-700' : 'text-white'
                 }`}

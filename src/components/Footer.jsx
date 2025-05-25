@@ -54,7 +54,7 @@ const Footer = () => {
             <h3 className="text-white text-lg font-medium mb-4">Hızlı Erişim</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">Ana Sayfa</a>
+                <a href="https://sandavinci.net" className="text-gray-400 hover:text-primary-400 transition-colors">Ana Sayfa</a>
               </li>
               <li>
                 <a href="#menu" className="text-gray-400 hover:text-primary-400 transition-colors">Menü</a>
