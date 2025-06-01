@@ -28,12 +28,15 @@ function App() {
   
   // Menu categories
   const categories = [
-    { id: 'kahve', name: '☕ Kahveler & Çaylar' },
-    { id: 'bitki', name: '🍵 Bitki Çayları' },
-    { id: 'soguk', name: '🥤 Soğuk İçecekler' },
+    { id: 'kahve', name: '☕ Sıcak Kahveler' },
+    { id: 'sogukKahve', name: '🥤 Soğuk Kahveler' },
+    { id: 'hotDrinks', name: 'Sıcak İçecekler' },
+    { id: 'sogukIcecek', name: '🥤 Soğuk İçecekler' },
+    { id: 'bitki', name: '🍵 Çaylar' },
     { id: 'smoothie', name: '🍹 Smoothie & Milkshake' },
     { id: 'tatli', name: '🥐 Tatlılar' },
-    { id: 'sandvic', name: '🥪 Sandviçler' }
+    { id: 'sandvic', name: '🥪 Sandviçler' },
+    { id: 'alternatifler', name: ' Alternatifler' }
   ]
   
   // Handler for changing category
